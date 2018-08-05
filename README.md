@@ -1,5 +1,5 @@
 # react-webpack-redux
-react + webpack + redux boilerplate
+react + webpack + redux minimal boilerplate
 
 
 
