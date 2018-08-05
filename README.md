@@ -23,4 +23,4 @@ https://chrome.google.com/webstore/detail/redux-devtools
 
 happy coding!
 
-![image](https://gyazo.com/128c8e0c633fd4024c2ee5a440b07e47)
+![image](https://i.gyazo.com/128c8e0c633fd4024c2ee5a440b07e47.png)
