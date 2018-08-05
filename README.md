@@ -18,6 +18,9 @@ npm install
 npm start
 ```
 
+### Install Redux Devtools for chrome
+https://chrome.google.com/webstore/detail/redux-devtools
+
 happy coding!
 
-![image](https://i.gyazo.com/58c2e52964e9ba949089530d276082fb.png)
+![image](https://gyazo.com/128c8e0c633fd4024c2ee5a440b07e47)
