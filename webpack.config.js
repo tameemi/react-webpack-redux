@@ -10,7 +10,7 @@ const htmlPlugin = new HtmlWebPackPlugin({
 module.exports = {
   entry: "./src/index.js",
   output: {
-    path: path.resolve(__dirname,'../../client_packages/test/ui'),
+    path: path.resolve(__dirname,'/dist/'),
     filename: 'index.js'
   },
   module: {
